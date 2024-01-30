@@ -15,7 +15,7 @@ let age = 30;
 
 console.log(typeof age);
 
-console.log(typeof "rakesh");
+console.log(typeof "rakesh"); 
 
 console.log(typeof null);//it's an object
 

@@ -6,7 +6,7 @@
 
 // console.log(typeof(score));
 
-// console.log(typeof(stringtonum));
+// console.log(typeof(stringtonum)); 
 
 // console.log(stringtonum);
 

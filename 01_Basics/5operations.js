@@ -8,7 +8,7 @@ let negvalue = -value;
 // console.log(value);//3
 // console.log(negvalue);//-3
 
-// console.log(2+2); //4
+// console.log(2+2); //4 
 // console.log(2-2); //0
 // console.log(2*2); //4
 // console.log(2**3); //8
